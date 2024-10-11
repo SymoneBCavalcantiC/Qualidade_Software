@@ -1,5 +1,5 @@
 import pytest
-from calculadora import Calculadora
+from Calculadora import Calculadora
 
 def test_adicionar():
     # a e b positivos
